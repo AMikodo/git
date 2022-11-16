@@ -12,7 +12,7 @@
   	<aspectjrt.version>1.8.0</aspectjrt.version>
   	<mysql.version>5.1.42</mysql.version>
   	<druid.version>1.1.10</druid.version>
-  	<jackson.version>2.8.8</jackson.version>
+  	<jackson.version>2.12.7.1</jackson.version>
   	<jstl.version>1.2</jstl.version>
   	<taglibs.version>1.1.2</taglibs.version>
   	<lombok.version>1.16.20</lombok.version>
